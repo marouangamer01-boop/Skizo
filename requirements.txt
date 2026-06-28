@@ -1,0 +1,7 @@
+requests
+python-telegram-bot
+beautifulsoup4
+lxml
+google-api-python-client
+google-auth
+google-auth-httplib2

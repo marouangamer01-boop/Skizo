@@ -1,0 +1,36 @@
+{
+  "value": {
+    "account": {
+      "token": {
+        "default": {
+          "token": "Bgi8u+vcAxLCASw3HV9eLzxuLJy0ZgEuS+iR9zdZhbbJURj1gOStKMxj9Hsi0VSafMzn0r2i2ofjCIzrT6jKdMxU/nj7F+XZXrNxqeMIowm5nyeGmQtZ943F/W2uzxsfsUHpBhTAz8n+TIjXsxJ98Q921US2urU7NrvD+fxnWkTWQ82tfp/dbciVXJnkUpqaQRj/+ZlkkETTAC+Gw738dqq3fYFo1iKeQ4WYZrIbpgJVkGMp8y7H1r1SvZjaLzQCFhLK3PjN9yM0ybVcGAYiDgoM8TMV5qnBXL/hN5qI",
+          "expires": 1782183945117,
+          "$type": "leaf"
+        }
+      }
+    }
+  },
+  "paths": [
+    [
+      "account",
+      [
+        "membershipStatus",
+        "userInfo"
+      ]
+    ],
+    [
+      "profiles",
+      "summary"
+    ],
+    [
+      "account",
+      "token",
+      "default"
+    ],
+    [
+      "account",
+      "subscriptions",
+      "0"
+    ]
+  ]
+}
